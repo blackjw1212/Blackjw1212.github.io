@@ -11,6 +11,7 @@ GEM
     eventmachine (1.2.7)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     faraday (1.4.1)
       faraday-excon (~> 1.1)
       faraday-net_http (~> 1.0)
@@ -52,6 +53,8 @@ GEM
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     ffi (1.15.0)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
@@ -79,6 +82,9 @@ GEM
     jekyll-seo-tag (2.7.1)
       jekyll (>= 3.8, < 5.0)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -88,6 +94,11 @@ GEM
       rexml
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+    kramdown-parser-gfm (1.1.0)
+      kramdown (~> 2.0)
+>>>>>>> Stashed changes
 =======
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -100,6 +111,7 @@ GEM
     listen (3.5.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     mercenary (0.3.6)
@@ -117,12 +129,17 @@ GEM
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     mercenary (0.4.0)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -134,6 +151,7 @@ GEM
       ffi (~> 1.0)
     rexml (3.2.5)
     rouge (3.26.0)
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
     ruby2_keywords (0.0.4)
@@ -149,6 +167,8 @@ GEM
 =======
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     safe_yaml (1.0.5)
     sassc (2.4.0)
       ffi (~> 1.9)
@@ -156,6 +176,9 @@ GEM
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -166,9 +189,12 @@ PLATFORMS
 DEPENDENCIES
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   jekyll
   minimal-mistakes-jekyll
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
   jekyll (~> 4.2.0)
@@ -178,6 +204,9 @@ DEPENDENCIES
   tzinfo-data
   wdm (~> 0.1.1)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

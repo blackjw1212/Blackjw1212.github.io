@@ -15,6 +15,7 @@ source "https://rubygems.org"
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 gem "jekyll"
 =======
 gem "blackjw1212.github.io"
@@ -23,6 +24,10 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
   gem "jekyll-archives"
 end
+=======
+gem "blackjw1212.github.io"
+gem "minimal-mistakes-jekyll"
+>>>>>>> Stashed changes
 =======
 gem "blackjw1212.github.io"
 gem "minimal-mistakes-jekyll"
@@ -39,7 +44,11 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 end
+=======
+end
+>>>>>>> Stashed changes
 =======
 end
 >>>>>>> Stashed changes
