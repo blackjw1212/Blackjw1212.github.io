@@ -123,13 +123,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       # url:https://twitter.com/a0926043323
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       # url:https://github.com/blackjw1212
+      # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,15 +138,13 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       # url:https://www.instagram.com/blackjw12/
+      # url:
 
 
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - _categories
-  - books
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -230,6 +228,7 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -238,8 +237,8 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
@@ -260,28 +259,11 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
-
-# Collections
-collections:
-  ruby:
-    output: true
-    permalink: /:collection/:path/
-  php:
-    output: true
-    permalink: /:collection/:path/
-  java:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
-
 
 
 # Defaults
@@ -294,8 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
-	  
-	  
