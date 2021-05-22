@@ -13,7 +13,11 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
+<<<<<<< Updated upstream
 gem "jekyll"
+=======
+gem "blackjw1212.github.io"
+>>>>>>> Stashed changes
 gem "minimal-mistakes-jekyll"
 
 # The following plugins are automatically loaded by the theme-gem:
@@ -25,4 +29,8 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
+<<<<<<< Updated upstream
 end
+=======
+end
+>>>>>>> Stashed changes
