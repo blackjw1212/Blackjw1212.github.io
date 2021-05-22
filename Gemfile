@@ -14,6 +14,7 @@ source "https://rubygems.org"
 # To upgrade, run `bundle update`.
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 gem "jekyll"
 =======
 gem "blackjw1212.github.io"
@@ -22,6 +23,10 @@ gem "minimal-mistakes-jekyll"
 group :jekyll_plugins do
   gem "jekyll-archives"
 end
+=======
+gem "blackjw1212.github.io"
+gem "minimal-mistakes-jekyll"
+>>>>>>> Stashed changes
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -33,7 +38,11 @@ end
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 end
+=======
+end
+>>>>>>> Stashed changes
 =======
 end
 >>>>>>> Stashed changes
