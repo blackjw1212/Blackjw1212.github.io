@@ -19,6 +19,9 @@ gem "jekyll"
 gem "blackjw1212.github.io"
 >>>>>>> Stashed changes
 gem "minimal-mistakes-jekyll"
+group :jekyll_plugins do
+  gem "jekyll-archives"
+end
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
